@@ -32,12 +32,12 @@ dotnet add package Blax
 
 ### Create a State Class
 
-Create a class that derives from **PackageProjectUrl** to represent your state, and decorate any properties you want to observe with the **[Observable]** attribute.
+Create a class that derives from **ObservableState** to represent your state, and decorate any properties you want to observe with the **[Observable]** attribute.
 
 ```cs
 using Blax;
 
-public class MyState : PackageProjectUrl
+public class MyState : ObservableState
 {
     [Observable]
     public virtual int Counter { get; set; }

@@ -14,7 +14,7 @@
     <RepositoryUrl>https://github.com/RednibCoding/Blax</RepositoryUrl>
 	<RepositoryType>git</RepositoryType>
 	<PackageProjectUrl>https://github.com/RednibCoding/Blax</PackageProjectUrl>
-    <PackageTags>Blazor;State;Management;Mobx;Observer;Observable;Web;Razor</PackageTags>
+    <PackageTags>Blazor;State;Management;Mobx;Observer;Observable;Web;Razor;Reactive</PackageTags>
 	<PackageReleaseNotes>Initial Release</PackageReleaseNotes>
   </PropertyGroup>
 
