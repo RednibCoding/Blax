@@ -18,6 +18,10 @@ With Blax, you can manage state without the boilerplate, making your Blazor apps
 
 ## Installation
 
+### NuGet
+
+The **Blax** NuGet package can be found at [nuget.org](https://www.nuget.org/packages/Blax/)
+
 Install the package via NuGet Package Manager:
 
 ```
