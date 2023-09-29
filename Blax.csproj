@@ -4,20 +4,25 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-	  <PackageId>Blax</PackageId>
+	<PackageId>Blax</PackageId>
     <Version>1.0.0</Version>
     <Authors>RednibCoding</Authors>
     <Copyright>Copyright (c) RednibCoding aka Michael Binder 2023.</Copyright>
     <Description>Blax is a state management library tailored specifically for Blazor applications. The library enables developers to manage application state through observable properties and lists with minimal effort. Using a straightforward and type-safe API, Blax helps you keep your UI components in sync with the underlying state automatically. Whether you're building a small Blazor app or a large-scale project, Blax provides a flexible and efficient way to manage your application's state.</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <Project>https://github.com/RednibCoding/Blax</Project>
-    <Tags>Blazor State Management Mobx Observer Observable Web Razor</Tags>
+	<PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/RednibCoding/Blax</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
+	<PackageProjectUrl>https://github.com/RednibCoding/Blax</PackageProjectUrl>
+    <PackageTags>Blazor;State;Management;Mobx;Observer;Observable;Web;Razor</PackageTags>
+	<PackageReleaseNotes>Initial Release</PackageReleaseNotes>
   </PropertyGroup>
 
 
   <ItemGroup>
     <SupportedPlatform Include="browser" />
     <None Include="README.md" Pack="true" PackagePath="\"/>
+	<None Include="LICENSE.md" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
   <ItemGroup>
