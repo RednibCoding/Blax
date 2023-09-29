@@ -1,5 +1,7 @@
 # Blax State Management Library for Blazor
 
+![](icon.png)
+
 ## Introduction
 
 Blax is a robust and flexible state management library designed specifically for Blazor applications.

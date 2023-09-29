@@ -15,6 +15,8 @@
 	<RepositoryType>git</RepositoryType>
 	<PackageProjectUrl>https://github.com/RednibCoding/Blax</PackageProjectUrl>
     <PackageTags>Blazor;State;Management;Mobx;Observer;Observable;Web;Razor;Reactive</PackageTags>
+	<PackageIcon>icon.png</PackageIcon>
+	
 	<PackageReleaseNotes>Initial Release</PackageReleaseNotes>
   </PropertyGroup>
 
@@ -23,6 +25,7 @@
     <SupportedPlatform Include="browser" />
     <None Include="README.md" Pack="true" PackagePath="\"/>
 	<None Include="LICENSE.md" Pack="true" PackagePath="\"/>
+	<None Include="icon.png" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
   <ItemGroup>
