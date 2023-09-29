@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
 	<PackageId>Blax</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>RednibCoding</Authors>
     <Copyright>Copyright (c) RednibCoding aka Michael Binder 2023.</Copyright>
     <Description>Blax is a state management library tailored specifically for Blazor applications. The library enables developers to manage application state through observable properties and lists with minimal effort. Using a straightforward and type-safe API, Blax helps you keep your UI components in sync with the underlying state automatically. Whether you're building a small Blazor app or a large-scale project, Blax provides a flexible and efficient way to manage your application's state.</Description>
